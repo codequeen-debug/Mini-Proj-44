@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sarah Chen",
+    "department": "Computer Science",
+    "subject": "Data Structures",
+    "university": "State University",
+    "rating": 4.8,
+    "difficulty": 3.5,
+    "level": "Undergraduate",
+    "year": 2024,
+    "tags": ["Helpful", "Clear Lectures", "Engaging"],
+    "reviews": [
+      "Best CS prof I've ever had. Makes complex topics feel simple.",
+      "Very approachable during office hours. Highly recommend!"
+    ],
+    "avatar": "https://i.pravatar.cc/300?img=47",
+    "wouldTakeAgain": 94
+  },
+  {
+    "id": 2,
+    "name": "Prof. James Holloway",
+    "department": "Mathematics",
+    "subject": "Linear Algebra",
+    "university": "State University",
+    "rating": 3.2,
+    "difficulty": 4.7,
+    "level": "Undergraduate",
+    "year": 2023,
+    "tags": ["Tough Grader", "Knowledgeable", "Fast Paced"],
+    "reviews": [
+      "Brilliant professor but lectures move incredibly fast.",
+      "Know your stuff before walking in. No hand-holding."
+    ],
+    "avatar": "https://i.pravatar.cc/300?img=12",
+    "wouldTakeAgain": 45
+  },
+  {
+    "id": 3,
+    "name": "Dr. Maya Patel",
+    "department": "Psychology",
+    "subject": "Cognitive Behavioral Therapy",
+    "university": "State University",
+    "rating": 4.9,
+    "difficulty": 2.1,
+    "level": "Graduate",
+    "year": 2024,
+    "tags": ["Amazing Lectures", "Caring", "Would Take Again"],
+    "reviews": [
+      "Literally changed how I think. Incredible educator.",
+      "So passionate about the subject. It's infectious!"
+    ],
+    "avatar": "https://i.pravatar.cc/300?img=48",
+    "wouldTakeAgain": 98
+  },
+  {
+    "id": 4,
+    "name": "Prof. Robert Kim",
+    "department": "Physics",
+    "subject": "Quantum Mechanics",
+    "university": "State University",
+    "rating": 3.7,
+    "difficulty": 4.9,
+    "level": "Graduate",
+    "year": 2022,
+    "tags": ["Genius", "Tough", "Inspiring"],
+    "reviews": [
+      "The hardest class I've taken but I learned so much.",
+      "Not for the faint of heart. Absolutely brilliant though."
+    ],
+    "avatar": "https://i.pravatar.cc/300?img=15",
+    "wouldTakeAgain": 61
+  },
+  {
+    "id": 5,
+    "name": "Dr. Lisa Thompson",
+    "department": "English",
+    "subject": "Creative Writing",
+    "university": "State University",
+    "rating": 4.6,
+    "difficulty": 2.4,
+    "level": "Undergraduate",
+    "year": 2023,
+    "tags": ["Encouraging", "Flexible", "Fun Class"],
+    "reviews": [
+      "She genuinely cares about your growth as a writer.",
+      "Best elective I ever took. Highly recommend to everyone."
+    ],
+    "avatar": "https://i.pravatar.cc/300?img=49",
+    "wouldTakeAgain": 91
+  },
+  {
+    "id": 6,
+    "name": "Prof. Ahmed Hassan",
+    "department": "Engineering",
+    "subject": "Thermodynamics",
+    "university": "State University",
+    "rating": 3.0,
+    "difficulty": 4.5,
+    "level": "Undergraduate",
+    "year": 2021,
+    "tags": ["Strict", "Detailed", "No Curves"],
+    "reviews": [
+      "Very demanding. Expect to spend 10+ hours per week on homework.",
+      "Not the most engaging lecturer but knows the material cold."
+    ],
+    "avatar": "https://i.pravatar.cc/300?img=18",
+    "wouldTakeAgain": 38
+  },
+  {
+    "id": 7,
+    "name": "Dr. Elena Rodriguez",
+    "department": "Biology",
+    "subject": "Molecular Biology",
+    "university": "State University",
+    "rating": 4.4,
+    "difficulty": 3.8,
+    "level": "Graduate",
+    "year": 2024,
+    "tags": ["Research Focused", "Inspiring", "Detailed Feedback"],
+    "reviews": [
+      "Her passion for research is contagious. Great mentor.",
+      "Tough but fair. You will learn a lot in her class."
+    ],
+    "avatar": "https://i.pravatar.cc/300?img=44",
+    "wouldTakeAgain": 82
+  },
+  {
+    "id": 8,
+    "name": "Prof. Daniel Park",
+    "department": "History",
+    "subject": "World History",
+    "university": "State University",
+    "rating": 4.7,
+    "difficulty": 2.8,
+    "level": "Undergraduate",
+    "year": 2022,
+    "tags": ["Storyteller", "Engaging", "Easy Grader"],
+    "reviews": [
+      "Makes history come alive. Never a dull moment in class.",
+      "I didn't expect to love this class but here we are."
+    ],
+    "avatar": "https://i.pravatar.cc/300?img=11",
+    "wouldTakeAgain": 95
+  },
+  {
+    "id": 9,
+    "name": "Dr. Priya Nair",
+    "department": "Computer Science",
+    "subject": "Machine Learning",
+    "university": "State University",
+    "rating": 4.5,
+    "difficulty": 4.2,
+    "level": "PhD",
+    "year": 2024,
+    "tags": ["Industry Expert", "Challenging", "Rewarding"],
+    "reviews": [
+      "Pushes you hard but prepares you for real world ML work.",
+      "Her projects are intense but your portfolio will thank you."
+    ],
+    "avatar": "https://i.pravatar.cc/300?img=46",
+    "wouldTakeAgain": 88
+  },
+  {
+    "id": 10,
+    "name": "Prof. Marcus Webb",
+    "department": "Philosophy",
+    "subject": "Ethics & Society",
+    "university": "State University",
+    "rating": 4.3,
+    "difficulty": 2.2,
+    "level": "Undergraduate",
+    "year": 2023,
+    "tags": ["Thought Provoking", "Open Minded", "Great Discussions"],
+    "reviews": [
+      "This class will change how you see the world. Seriously.",
+      "Super chill class with incredibly deep discussions."
+    ],
+    "avatar": "https://i.pravatar.cc/300?img=13",
+    "wouldTakeAgain": 89
+  },
+  {
+    "id": 11,
+    "name": "Dr. Yuki Tanaka",
+    "department": "Chemistry",
+    "subject": "Organic Chemistry",
+    "university": "State University",
+    "rating": 3.5,
+    "difficulty": 4.8,
+    "level": "Undergraduate",
+    "year": 2021,
+    "tags": ["Weed Out", "Brilliant", "Tough"],
+    "reviews": [
+      "Orgo is hard no matter what but she makes it manageable.",
+      "Study groups are essential. Don't try to do this alone."
+    ],
+    "avatar": "https://i.pravatar.cc/300?img=45",
+    "wouldTakeAgain": 52
+  },
+  {
+    "id": 12,
+    "name": "Prof. Carlos Mendez",
+    "department": "Business",
+    "subject": "Entrepreneurship",
+    "university": "State University",
+    "rating": 4.9,
+    "difficulty": 2.6,
+    "level": "Graduate",
+    "year": 2024,
+    "tags": ["Industry Leader", "Motivating", "Real World Focus"],
+    "reviews": [
+      "He's built 3 startups. Every class feels like a masterclass.",
+      "The most valuable course of my MBA. Period."
+    ],
+    "avatar": "https://i.pravatar.cc/300?img=14",
+    "wouldTakeAgain": 99
+  },
+  {
+    "id": 13,
+    "name": "Dr. Fiona Walsh",
+    "department": "Sociology",
+    "subject": "Social Inequality",
+    "university": "State University",
+    "rating": 4.1,
+    "difficulty": 3.0,
+    "level": "Undergraduate",
+    "year": 2022,
+    "tags": ["Eye Opening", "Passionate", "Heavy Reading"],
+    "reviews": [
+      "Dense readings but she makes them worth it in discussion.",
+      "Will challenge your worldview in the best possible way."
+    ],
+    "avatar": "https://i.pravatar.cc/300?img=43",
+    "wouldTakeAgain": 76
+  },
+  {
+    "id": 14,
+    "name": "Prof. Nathan Brooks",
+    "department": "Economics",
+    "subject": "Macroeconomics",
+    "university": "State University",
+    "rating": 3.9,
+    "difficulty": 3.6,
+    "level": "Undergraduate",
+    "year": 2023,
+    "tags": ["By The Book", "Fair", "Lecture Heavy"],
+    "reviews": [
+      "Solid professor. Not flashy but very thorough.",
+      "Goes straight from the textbook. Come prepared to take notes."
+    ],
+    "avatar": "https://i.pravatar.cc/300?img=17",
+    "wouldTakeAgain": 67
+  },
+  {
+    "id": 15,
+    "name": "Dr. Amara Okonkwo",
+    "department": "Biology",
+    "subject": "Neuroscience",
+    "university": "State University",
+    "rating": 4.7,
+    "difficulty": 3.9,
+    "level": "PhD",
+    "year": 2024,
+    "tags": ["World Class", "Research Forward", "Mentorship"],
+    "reviews": [
+      "One of the leading researchers in her field. Lucky to learn from her.",
+      "Demanding but an incredible mentor for grad students."
+    ],
+    "avatar": "https://i.pravatar.cc/300?img=42",
+    "wouldTakeAgain": 93
+  }
+]
