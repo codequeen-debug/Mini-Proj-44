@@ -1,21 +1,11 @@
-# ProfSwipe Revamped 🎓
+# ProfSwipe Revamped 
 
 A Tinder-style Rate My Professor React app built with Vite + Tailwind v4 + DaisyUI v5.
 
-## ⚡ Quick Start
+## Live Link
 
-```bash
-# 1. Delete node_modules if you have them from before
-rmdir /s /q node_modules
+https://deploy-preview-3--professorswip.netlify.app/
 
-# 2. Install dependencies
-npm install
-
-# 3. Start the dev server
-npm run dev
-
-# 4. Open in browser → http://localhost:5173
-```
 
 ## 📁 Project Structure
 
