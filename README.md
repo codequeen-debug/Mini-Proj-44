@@ -23,7 +23,7 @@ ProfSwipe is a single-page application (SPA) that lets students swipe through pr
 | Database | Firebase Firestore |
 | Data Source | `public/professors.json` |
 | Routing | React Router v6 |
-| Deployment | Netlify |
+| Deployment | Vercel |
 
 
 ## 📁 Project Structure
