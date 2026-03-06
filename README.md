@@ -51,31 +51,32 @@ profswipe/
 └── package.json
 
 ```
-
 ## 📄 Pages
-Home / Landing Page
-The default landing page. Guests are shown a limited preview of professor cards and a prompt to sign up for full access. Authenticated users are redirected to the Dashboard.
 
-Signup Page
+### 🏠 Home / Landing Page
+The default landing page. Guests see a limited preview of 3 professor cards
+and a prompt to log in for full access. Authenticated users see all professors.
+
+### 🔐 Signup Page
 New users can create an account via:
-Username & Password (with validation)
-Google OAuth (via Firebase)
+- Username & Password (with validation)
+- Google OAuth (via Firebase)
 
-Login Page
-Returning users log in with email/password or Google.
+### 🔑 Login Page
+Returning users log in with email/password or Google. Includes a
+show/hide password toggle and a forgot password option.
 
-Dashboard 
-Full access for authenticated users only. Features:
+### 🃏 Swipe Page (Home)
+The main experience, available to all users on `/`:
+- Guests: limited to 3 professor cards, no interactions
+- Authenticated users: full swipe stack, like/dislike, save to watchlist,
+  filter & sort by department/rating, access to Saved Drawer and Reviewed List
 
-Full professor card swipe stack
-Filter and sort by department, rating, etc.
-Like / Dislike interactions
-Save professors to a watchlist
-Access to the Saved Drawer and Reviewed List
-
-Error Pages
-404 – Not FoundUser navigates to an invalid URL (e.g. /logging instead of /login)
-401 – UnauthorizedGuest user attempts to access a protected route (e.g. /dashboard)
+### ❌ Error Pages
+| Page | Trigger |
+|---|---|
+| **404 – Not Found** | User navigates to an invalid URL (e.g. `/logging` instead of `/login`) |
+| **401 – Unauthorized** | Guest attempts to access a protected route |
 
 
 ## 🔒 Guest vs. Authenticated Users
