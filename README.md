@@ -61,7 +61,6 @@ Error Pages
 404 – Not FoundUser navigates to an invalid URL (e.g. /logging instead of /login)
 401 – UnauthorizedGuest user attempts to access a protected route (e.g. /dashboard)
 
-## 🔒 Guest vs. Authenticated Users
 
 ## 🔒 Guest vs. Authenticated Users
 
