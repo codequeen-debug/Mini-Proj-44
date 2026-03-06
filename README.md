@@ -31,8 +31,46 @@ profswipe/
 │   ├── main.jsx
 │   └── index.css
 ├── index.html
-├── vite.config.js   ← Tailwind v4 uses vite plugin (no postcss.config needed)
+├── vite.config.js   ← Tailwind v4 uses a vite plugin (no postcss.config needed)
 └── package.json
+
 ```
+
+## 📄 Pages
+Home / Landing Page
+The default landing page. Guests are shown a limited preview of professor cards and a prompt to sign up for full access. Authenticated users are redirected to the Dashboard.
+
+Signup Page
+New users can create an account via:
+Username & Password (with validation)
+Google OAuth (via Firebase)
+
+Login Page
+Returning users log in with email/password or Google.
+
+Dashboard 
+Full access for authenticated users only. Features:
+
+Full professor card swipe stack
+Filter and sort by department, rating, etc.
+Like / Dislike interactions
+Save professors to a watchlist
+Access to the Saved Drawer and Reviewed List
+
+Error Pages
+404 – Not FoundUser navigates to an invalid URL (e.g. /logging instead of /login)
+401 – UnauthorizedGuest user attempts to access a protected route (e.g. /dashboard)
+
+## 🔒 Guest vs. Authenticated Users
+
+Feature                          Guest      Authenticated User 
+View limited professor cards      ✅             ✅
+View all professors               ❌             ✅
+Like / Dislike                    ❌             ✅
+Save to Watchlist                 ❌             ✅
+Filter & Sort                     ❌             ✅
+Access Dashboard                  ❌             ✅
+Download / Export                 ❌             ✅
+
 
 
