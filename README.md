@@ -13,6 +13,18 @@ Sara-Lee Brown
 ## About the App
 ProfSwipe is a single-page application (SPA) that lets students swipe through professor cards in a Tinder-style interface. Guests can browse a limited preview of professors, while authenticated users unlock full access to filter, sort, like/dislike, and save professors to a watchlist.
 
+# Tech Stack 
+
+| Layer | Technology |
+|---|---|
+| Frontend Framework | React 18 (via Vite) |
+| Styling | Tailwind CSS v4 + DaisyUI v5 |
+| Authentication | Firebase Auth |
+| Database | Firebase Firestore |
+| Data Source | `public/professors.json` |
+| Routing | React Router v6 |
+| Deployment | Netlify |
+
 
 ## 📁 Project Structure
 
