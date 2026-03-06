@@ -92,3 +92,7 @@ The main experience, available to all users on `/`:
 | Filter & Sort | ❌ | ✅ |
 | Access Dashboard | ❌ | ✅ |
 | Download / Export | ❌ | ✅ |
+
+
+ http://localhost:5175/
+ 
