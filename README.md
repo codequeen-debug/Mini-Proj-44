@@ -63,14 +63,14 @@ Error Pages
 
 ## 🔒 Guest vs. Authenticated Users
 
-Feature                          Guest      Authenticated User 
-View limited professor cards      ✅             ✅
-View all professors               ❌             ✅
-Like / Dislike                    ❌             ✅
-Save to Watchlist                 ❌             ✅
-Filter & Sort                     ❌             ✅
-Access Dashboard                  ❌             ✅
-Download / Export                 ❌             ✅
+## 🔒 Guest vs. Authenticated Users
 
-
-
+| Feature | Guest | Authenticated User |
+|---|---|---|
+| View limited professor cards | ✅ | ✅ |
+| View all professors | ❌ | ✅ |
+| Like / Dislike | ❌ | ✅ |
+| Save to Watchlist | ❌ | ✅ |
+| Filter & Sort | ❌ | ✅ |
+| Access Dashboard | ❌ | ✅ |
+| Download / Export | ❌ | ✅ |
